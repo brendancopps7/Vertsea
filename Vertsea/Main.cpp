@@ -141,9 +141,9 @@ int overworld(sf::RenderWindow& window, int location)
 
 		for (int y = 0; y < TILE_HEIGHT; y++) {
 			for (int x = 0; x < TILE_WIDTH; x++) {
-				if (spritemap[x][y] == 1) {
+				//if (spritemap[x][y] == 1) {
 					one.draw(window);
-				}
+				//}
 			}
 		}
 

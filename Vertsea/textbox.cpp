@@ -60,7 +60,7 @@ bool textbox::isVisible()
 }
 
 std::string textbox::getText(){
-    
+	return "Well Fuck Me";
     }
 
 void textbox::draw(sf::RenderWindow & window){

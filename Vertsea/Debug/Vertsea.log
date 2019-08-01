@@ -1,16 +1,29 @@
-﻿  player.cpp
-C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\player.cpp(44,58): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\player.cpp(81,13): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
-C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\player.cpp(82,13): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
-C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\player.cpp(87,36): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\player.cpp(89,14): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\player.cpp(91,37): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\player.cpp(93,14): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\player.cpp(95,34): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\player.cpp(95,28): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\player.cpp(96,7): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
-  textbox.cpp
-  Generating Code...
-C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\player.cpp(97,7): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\player.cpp(97,7): warning C4244: C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\textbox.cpp(64) : error C4716: 'textbox::getText': must return a value
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(429,5): error MSB6006: "CL.exe" exited with code 2.
+﻿  Main.cpp
+C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\Main.cpp(55,10): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\Main.cpp(64,18): warning C4244:  '=': conversion from 'const int' to 'T', possible loss of data
+C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\Main.cpp(64,18): warning C4244:         with
+C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\Main.cpp(64,18): warning C4244:         [
+C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\Main.cpp(64,18): warning C4244:             T=float
+C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\Main.cpp(64,18): warning C4244:         ]
+C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\Main.cpp(65,20): warning C4244:  '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\Main.cpp(65,20): warning C4244:         with
+C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\Main.cpp(65,20): warning C4244:         [
+C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\Main.cpp(65,20): warning C4244:             T=float
+C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\Main.cpp(65,20): warning C4244:         ]
+C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\Main.cpp(67,53): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\Main.cpp(76,41): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\Main.cpp(76,41): warning C4244:         with
+C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\Main.cpp(76,41): warning C4244:         [
+C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\Main.cpp(76,41): warning C4244:             T=float
+C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\Main.cpp(76,41): warning C4244:         ]
+C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\Main.cpp(76,25): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\Main.cpp(76,25): warning C4244:         with
+C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\Main.cpp(76,25): warning C4244:         [
+C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\Main.cpp(76,25): warning C4244:             T=float
+C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\Main.cpp(76,25): warning C4244:         ]
+C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\Main.cpp(185,10): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\Main.cpp(188,28): warning C4244:  'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\Main.cpp(188,14): warning C4244:  'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\Main.cpp(189,26): warning C4244:  'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Brendan Coppinger\source\repos\Vertsea\Vertsea\Main.cpp(189,12): warning C4244:  'argument': conversion from 'const int' to 'float', possible loss of data
+  Vertsea.vcxproj -> C:\Users\Brendan Coppinger\source\repos\Vertsea\Debug\Vertsea.exe
